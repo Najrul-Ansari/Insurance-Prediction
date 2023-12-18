@@ -29,11 +29,11 @@
   
     12. Response - 1 : Customer is interested, 0 : Customer is not interested
 
-+ Objective - Create a ML Model to predict the heart disease.
++ Objective - Create a ML Model to predict whether a customer would be interested in Vehicle Insurance.
 
-+ Tools - Python code in Jupyter notebook, Powerpoint, Excel.
++ Tools - Python code in Jupyter notebook, Excel.
 
-+ Algorithm Used - Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors, Support Vector Machines (SVM), Naive Bayes.
++ Algorithm Used - Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors.
 
   + Logistic Regression - Logistic regression is a statistical method used for binary classification, which means predicting the probability of an observation belonging to one of two classes. Despite its name, logistic regression is a classification algorithm, not a regression algorithm. It is widely used in machine learning and statistics for tasks such as spam detection, medical diagnosis, and credit scoring.
  
@@ -42,10 +42,6 @@
   + Random Forest - Random Forest is an ensemble learning method that builds multiple decision trees during training and merges their predictions for more robust and accurate results. The main idea behind Random Forest is to reduce overfitting and improve generalization by aggregating the predictions of multiple base models (decision trees).
  
   + K-Nearest Neighbors - K-Nearest Neighbors (KNN) is a simple and intuitive machine learning algorithm used for both classification and regression tasks. It belongs to the family of instance-based or lazy learning algorithms, as it doesn't explicitly learn a model during training. Instead, it memorizes the training data and makes predictions based on the similarity of new instances to those in the training set.
- 
-  + Support Vector Machines (SVM) - Support Vector Machines (SVM) is a powerful supervised machine learning algorithm used for both classification and regression tasks. SVMs are particularly effective in high-dimensional spaces and are capable of creating non-linear decision boundaries through the use of different kernel functions.
- 
-  + Naive Bayes - Naive Bayes is a family of probabilistic machine learning algorithms based on Bayes' theorem. It is particularly popular for text classification tasks, such as spam filtering and sentiment analysis, but it can be applied to various types of data. Despite its simplicity and "naive" assumptions, Naive Bayes often performs well and is computationally efficient.
 
  
 + Methodology:
