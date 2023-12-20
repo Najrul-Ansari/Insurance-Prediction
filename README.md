@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Insurance-Prediction
 
 + Problem -
